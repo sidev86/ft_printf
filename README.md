@@ -14,8 +14,9 @@ Format means the type of data to which we refer (for example an integer value, d
 
 <h1>What is a variadic function</h1>
 
-- To better understand what the term variadic means, let's look at the syntactic definition of the function:
- <code>int printf(const char *format, ...)</code>
+- To better understand what the term variadic means, let's look at the syntactic definition of the function:<br>
+
+<code>int printf(const char *format, ...)</code>
 
 
 
