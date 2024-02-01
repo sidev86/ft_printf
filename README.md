@@ -83,6 +83,5 @@ I repeat these steps until the end of the string
 
 <h1>Useful resources</h1>
 
-<a href="https://www.youtube.com/watch?v=GExnnTaBELk">Makefile</a><br>
+<a href="https://www.youtube.com/watch?v=oDC208zvsdg">Variadic Functions</a><br>
 <a href="https://www.youtube.com/watch?v=zuegQmMdy8M">Pointers</a><br>
-<a href="https://www.youtube.com/watch?v=uBZHMkpsTfg&list=PLfqABt5AS4FmXeWuuNDS3XGENJO1VYGxl">Lists</a>
