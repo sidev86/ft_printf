@@ -1,6 +1,6 @@
 In this 42 project you will recreate one of the most commonly used functions in the C language: the printf function
 
-<h1>What is printf?</h1>
+<h1 align="left">What is printf?</h1>
 
 - The printf function is one of the most common output functions in the C language. It is a function that is part of the stdio.h library, 
 which is a library that contains a set of features for handling input and output (stdio is short for 'standard input output'). 
