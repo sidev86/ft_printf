@@ -16,7 +16,7 @@ Format means the type of data to which we refer (for example an integer value, d
 
 - To better understand what the term variadic means, let's look at the syntactic definition of the function:
  <p style="font-family: 'Courier New', monospace; color: #1a1a1a; background-color: #f2f2f2; padding: 5px; border-radius: 3px;">
-    Questo è un esempio di <span style="font-family: 'Courier New', monospace; color: #1a1a1a; background-color: #f2f2f2; padding: 5px; border-radius: 3px;">int printf(const char *format, ...);</span>
+ <span style="font-family: 'Courier New', monospace; color: #1a1a1a; background-color: #f2f2f2; padding: 5px; border-radius: 3px;">int printf(const char *format, ...)</span>
   </p>
 
 
