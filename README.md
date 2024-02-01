@@ -68,7 +68,7 @@ Output message -> E is the 5th letter of the alphabet
 
 <h1>Tips for making this project</h1>
 
-- Starting from the first character, scroll through the string passed as input to the ft_printf character by character.
+- Starting from the first character, scroll through the string passed as input to the ft_printf, character by character.
  
 - If the character we're pointing to, is a simple text character, print it as it is.
 
