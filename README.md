@@ -46,22 +46,20 @@ In case we want to print the data content we need to define the data format in o
 
 <h1>Practical examples</h1>
 
-- I print the number of days of the year:
-
 <code>int day_in_year = 365;</code><br>
 <code>printf(“In a year there are %d days”, day_in_year)</code>
 
 Output message -> In a year there are 365 days
 
 
-<code>char *food = “carrots”;</code> 
+<code>char *food = “carrots”;</code> <br>
 <code>char *color = “orange”;</code><br>
 <code>printf(“The %s are %s”, food, color);</code>
 
 Output message ->The carrots weigh 1.75 Kilos
 
 
-<code>char letter = 'E';</code>
+<code>char letter = 'E';</code><br>
 <code>int index = 5;</code><br>
 <code>printf(“%c is the %d th letter of the alphabet)</code>
 
