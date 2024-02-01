@@ -38,35 +38,35 @@ In case we want to print the data content we need to define the data format in o
 
 <h1>Data format (most common)</h1>
 
-%d : base 10 integers
-%s : strings
-%c : characters
-%x : hexadecimal
+%d : base 10 integers <br>
+%s : strings <br>
+%c : characters <br>
+%x : hexadecimal <br>
 
 
 <h1>Practical examples</h1>
 
 - I print the number of days of the year:
 
-int day_in_year = 365;
+<code>int day_in_year = 365;<br>
 
-printf(“In a year there are %d days”, day_in_year)
+printf(“In a year there are %d days”, day_in_year)</code>
 
 Output message -> In a year there are 365 days
 
 
-char *food = “carrots”;
-char *color = “orange”;
+<code>char *food = “carrots”; <br>
+char *color = “orange”; <br>
 
-printf(“The %s are %s”, food, color);
+printf(“The %s are %s”, food, color);</code>
 Output message ->The carrots weigh 1.75 Kilos
 
 
-char letter = 'E';
-int index = 5;
+<code>char letter = 'E'; <br>
+int index = 5; <br>
 
 
-printf(“%c is the %d th letter of the alphabet)
+printf(“%c is the %d th letter of the alphabet) </code>
 
 Output message -> E is the 5th letter of the alphabet
 
