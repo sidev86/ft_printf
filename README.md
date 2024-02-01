@@ -56,12 +56,12 @@ Output message -> In a year there are 365 days
 <code>char *color = “orange”;</code><br>
 <code>printf(“The %s are %s”, food, color);</code>
 
-Output message ->The carrots weigh 1.75 Kilos
+Output message ->The carrots are orange
 
 
 <code>char letter = 'E';</code><br>
 <code>int index = 5;</code><br>
-<code>printf(“%c is the %d th letter of the alphabet)</code>
+<code>printf(“%c is the %dth letter of the alphabet)</code>
 
 Output message -> E is the 5th letter of the alphabet
 
