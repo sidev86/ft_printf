@@ -48,15 +48,15 @@ In case we want to print the data content we need to define the data format in o
 
 - I print the number of days of the year:
 
-<code>int day_in_year = 365;<br>
+<code>int day_in_year = 365;
 
 printf(“In a year there are %d days”, day_in_year)</code>
 
 Output message -> In a year there are 365 days
 
 
-<code>char *food = “carrots”; <br>
-char *color = “orange”; <br>
+<code>char *food = “carrots”; 
+char *color = “orange”; 
 
 printf(“The %s are %s”, food, color);</code>
 Output message ->The carrots weigh 1.75 Kilos
