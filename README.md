@@ -18,5 +18,14 @@ The ft_printf project is a reimplementation of the standard printf() function fr
   <li><code>%%</code>: Prints a percent sign.</li>
 </ul>
 
+<h2>Usage</h2>
+Type <code>make</code> to generate the library file libftprintf.a. <br>To use the library in your project just include the header file "ft_printf.h"<br>
+Once imported into your project, the <code>ft_printf</code> function can be used in a similar way to the standard <code>printf()</code> function:
+<br>
+<code>ft_printf("Character: %c, String: %s, Decimal: %d\n", 'A', "Hello", 123);</code>
+
+<h2>Compilation instructions</h2>
+
+<code>gcc -o <strong><em>executable_name filename.c</em></strong> -L<strong><em>/path/to/lib</em></strong> -l:libftprintf.a</code>
 
 
