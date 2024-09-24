@@ -17,7 +17,7 @@ The ft_printf project is a reimplementation of the standard printf() function fr
   <li><code>%X</code>: Prints a number in uppercase hexadecimal (base 16) format.</li>
   <li><code>%%</code>: Prints a percent sign.</li>
 </ul>
-
+<br>
 <h2>Usage</h2>
 Type <code>make</code> to generate the library file libftprintf.a. <br>To use the library in your project just include the header file "ft_printf.h"<br>
 Once imported into your project, the <code>ft_printf</code> function can be used in a similar way to the standard <code>printf()</code> function:
