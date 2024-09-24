@@ -1,5 +1,5 @@
 <h1>ft_printf</h1>
-<br>
+
 <h2>Description</h2>
 
 The ft_printf project is a reimplementation of the standard printf() function from the C Standard Library <strong><em>libc</em></strong>. The goal of this project is to recreate key functionalities of printf() while adhering to specific restrictions and requirements. This function provides formatted output conversion, handling various type of data such as characters, strings, integers, and hexadecimal values.
