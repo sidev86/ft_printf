@@ -21,6 +21,7 @@ The ft_printf project is a reimplementation of the standard printf() function fr
 <h2>Usage</h2>
 Type <code>make</code> to generate the library file <code>libftprintf.a.</code> To use the library in your project just include the header file "ft_printf.h". Once imported into your project, the <code>ft_printf</code> function can be used in a similar way to the standard <code>printf()</code> function:
 <br><br>
+<h3>Example</h3>
 <strong><code>ft_printf("Character: %c, String: %s, Integer number: %d\n", 'A', "Hello", 123);</code></strong>
 <br><br>
 <h2>Compilation instructions</h2>
