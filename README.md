@@ -7,15 +7,15 @@ The ft_printf project is a reimplementation of the standard printf() function fr
 <h2>Supported Conversions</h2>
 <p>The <code>ft_printf</code> function supports the following conversions:</p>
 <ul>
-  <li><code>%c</code>: Prints a single character.</li>
-  <li><code>%s</code>: Prints a string (following the standard C string format).</li>
-  <li><code>%p</code>: Prints a <code>void *</code> pointer in hexadecimal format.</li>
-  <li><code>%d</code>: Prints a decimal (base 10) number.</li>
-  <li><code>%i</code>: Prints an integer in base 10.</li>
-  <li><code>%u</code>: Prints an unsigned decimal (base 10) number.</li>
-  <li><code>%x</code>: Prints a number in lowercase hexadecimal (base 16) format.</li>
-  <li><code>%X</code>: Prints a number in uppercase hexadecimal (base 16) format.</li>
-  <li><code>%%</code>: Prints a percent sign.</li>
+  <li><strong><code>%c</code></strong>: Prints a single character.</li>
+  <li><strong><code>%s</code></strong>: Prints a string (following the standard C string format).</li>
+  <li><strong><code>%p</code></strong>: Prints a <code>void *</code> pointer in hexadecimal format.</li>
+  <li><strong><code>%d</code></strong>: Prints a decimal (base 10) number.</li>
+  <li><strong><code>%i</code></strong>: Prints an integer in base 10.</li>
+  <li><strong><code>%u</code></strong>: Prints an unsigned decimal (base 10) number.</li>
+  <li><strong><code>%x</code></strong>: Prints a number in lowercase hexadecimal (base 16) format.</li>
+  <li><strong><code>%X</code></strong>: Prints a number in uppercase hexadecimal (base 16) format.</li>
+  <li><strong><code>%%</code></strong>: Prints a percent sign.</li>
 </ul>
 
 <h2>Usage</h2>
